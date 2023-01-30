@@ -1,0 +1,116 @@
+.btn-free-consultant{
+    background-color: #B68C5A; 
+    color: #fff; 
+    border: 0ch; 
+    width: 220px; 
+    height: 64px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+}
+/* .banner-img{
+    background-image: url(./images/banner.png);
+} */
+.card{
+    width: 401px;
+    height: 499px;
+}
+.card-img-top{
+    width: 71.8px;
+    height: 72.34px;
+    margin-left: 180px;
+}
+.card-title{
+    text-align: center;
+}
+.service{
+    text-align: center;
+}
+.service-explain{
+    width: 40%;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.contactus{
+    width: 1170px;
+    height: 570px;
+    margin-bottom: 280px;
+}
+.contactus p{
+    width: 50%;
+    margin: auto;
+}
+.card{
+    width: 285px;
+    height: 285px;
+    background: #F3F3F3;
+}
+.name{
+    width: 570px;
+    height: 72px;
+    background: #F3F3F3;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+.email{
+    width: 570px;
+    height: 72px;
+    background: #F3F3F3;
+    border-radius: 8px;
+    margin-bottom: 30px;
+
+}
+.subject{
+    width: 570px;
+    height: 72px;
+    background: #F3F3F3;
+    border-radius: 8px;
+    margin-bottom: 30px;
+
+}
+.textarea{
+    position: absolute;
+    width: 570px;
+    height: 162px;
+    background: #F3F3F3;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+.contact-btn{
+    margin-top: 180px;
+    text-align: center;
+    width: 570px;
+    height: 72px;
+    background: #B68C5A;
+    border-radius: 8px;
+    color: #fff;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+}
+.contact-us-details{
+    margin-top: 60px;
+}
+.col-margin{
+    margin-top: 0%;
+    margin-right: 0%;
+}
+.card-img-top {
+    margin: auto;
+}
+.col-part1{
+    margin-top: 3px;
+}
+footer{
+    background-color: black;
+    width: 1920px;
+    height: 506px;
+}
+ul > li{
+    color: white;
+    list-style-type: none;
+}
